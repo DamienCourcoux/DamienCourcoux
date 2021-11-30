@@ -8,10 +8,9 @@ I'm Damien, junior fullstack web developer and I'm ready to improve the art of d
 - 📫 How to reach me: damsmailspro@gmail.com
 - ⚡ Fun fact: I dont know why i am writing this readme ...
 
-<!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamienCourcoux&theme=prussian)
-](https://github-readme-stats.vercel.app/api?username=DamienCourcoux&theme=prussian)
--->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamienCourcoux&theme=prussian)
+](https://github-readme-stats.vercel.app/api?username=DamienCourcoux&theme=prussian) -->
+
 #### Technologies
 <!-- lien des badges: https://github.com/Ileriayo/markdown-badges -->
 [![Generic badge](https://img.shields.io/badge/Front-⬇-c0daff.svg)](https://shields.io/)  
@@ -27,8 +26,9 @@ I'm Damien, junior fullstack web developer and I'm ready to improve the art of d
 
 #### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)  
-<!-- Thème: Palenight -->
+Thème: Palenight Operator
 
 #### Social Media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://www.linkedin.com/in/damiencourcoux/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23323330?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:damsmailspro@gmail.com)
 
